@@ -136,6 +136,86 @@ namespace SolarPlanets.Services
                     "https://solarsystem.nasa.gov/system/feature_items/images/84_neptune_carousel_2.jpg"
                 }
             },
+
+            new()
+            {
+                Name = " Pluto",
+                Subtitle = "  The goofiest best friend",
+                HeroImage = "pluto.png",
+                Description = "Pluto is a dwarf planet in the Kuiper belt, a ring of bodies beyond the orbit of Neptune. It is the ninth-largest and tenth-most-massive known object to directly orbit the Sun. It is the largest known trans-Neptunian object by volume, by a small margin, but is slightly less massive than Eris. Like other Kuiper belt objects, Pluto is made primarily of ice and rock and is much smaller than the inner planets. Pluto has only one sixth the mass of Earth's moon, and one third its volume. ",
+                AccentColorStart = Color.FromArgb("#0c293d"),
+                AccentColorEnd = Color.FromArgb("#26abe0"),
+                Images = new()
+                {
+                    "https://upload.wikimedia.org/wikipedia/commons/d/d3/Global_LORRI_mosaic_of_Pluto_in_true_colour.jpg",
+                    "https://www.nasa.gov/sites/default/files/thumbnails/image/edu_what_is_pluto_1.png",
+                    "https://www.nasa.gov/sites/default/files/thumbnails/image/edu_what_is_pluto_2.png"
+                }
+            },
+
+            new()
+            {
+                Name = " Ceres",
+                Subtitle = "  The god of agriculture",
+                HeroImage = "ceres.png",
+                Description = "Ceres is a dwarf planet in the asteroid belt between the orbits of Mars and Jupiter. It was the first asteroid discovered, on 1 January 1801, by Giuseppe Piazzi at Palermo Astronomical Observatory in Sicily and announced as a new planet. Ceres was later classified as an asteroid and then a dwarf planet – the only one orbiting entirely within Neptune's orbit. ",
+                AccentColorStart = Color.FromArgb("#0c293d"),
+                AccentColorEnd = Color.FromArgb("#26abe0"),
+                Images = new()
+                {
+                    "https://upload.wikimedia.org/wikipedia/commons/7/76/Ceres_-_RC3_-_Haulani_Crater_%2822381131691%29_%28cropped%29.jpg",
+                    "https://solarsystem.nasa.gov/system/stellar_items/image_files/704_feature_1600x900_ceres.jpg",
+                    "https://i.ytimg.com/vi/nJiw2NxqoBU/mqdefault.jpg"
+                }
+            },
+
+            new()
+            {
+                Name = " Makemake",
+                Subtitle = "  The red dwarf",
+                HeroImage = "makemake.png",
+                Description = "Makemake is a dwarf planet and the second-largest of what are known as the classical population of Kuiper belt objects, with a diameter approximately that of Saturn's moon Iapetus, or 60% that of Pluto. It has one known satellite. Its extremely low average temperature, about 40 K (−230 °C), means its surface is covered with methane, ethane, and possibly nitrogen ices.",
+                AccentColorStart = Color.FromArgb("#0c293d"),
+                AccentColorEnd = Color.FromArgb("#26abe0"),
+                Images = new()
+                {
+                    "https://cdn.mos.cms.futurecdn.net/8QBGiy9BhmttKdGeAAZpn8-320-80.jpg",
+                    "https://cdn.eso.org/images/screen/eso1246a.jpg",
+                    "https://media2.spaceref.com/news/oomakemake.jpg"
+                }
+            },
+
+            new()
+            {
+                Name = " Haumea",
+                Subtitle = "  The spinning dwarf",
+                HeroImage = "haumea.png",
+                Description = "Haumea is a dwarf planet located beyond Neptune's orbit. Nominal estimates make it the third-largest known trans-Neptunian object, after Eris and Pluto, and approximately the size of Uranus's moon Titania",
+                AccentColorStart = Color.FromArgb("#0c293d"),
+                AccentColorEnd = Color.FromArgb("#26abe0"),
+                Images = new()
+                {
+                    "https://solarsystem.nasa.gov/system/stellar_items/image_files/723_feature_1600x900_haumea.jpg",
+                    "https://www.universetoday.com/wp-content/uploads/2022/10/7871.jpg",
+                    "https://i.guim.co.uk/img/media/8ba455b0fcc4943d263e08ba334c7dfaba690991/163_652_3543_2126/master/3543.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=afd8e15c143dbb88db21179301109a80"
+                }
+            },
+
+            new()
+            {
+                Name = " Eris",
+                Subtitle = "  The cold dwarf planet",
+                HeroImage = "eris.png",
+                Description = "Eris is the most massive and second-largest known dwarf planet in the Solar System.[22] It is a trans-Neptunian object (TNO) in the scattered disk and has a high-eccentricity orbit. Eris was discovered in January 2005 by a Palomar Observatory–based team led by Mike Brown and verified later that year. ",
+                AccentColorStart = Color.FromArgb("#0c293d"),
+                AccentColorEnd = Color.FromArgb("#26abe0"),
+                Images = new()
+                {
+                    "https://cdn.mos.cms.futurecdn.net/ufTfK2rbpQXZBjt2ZPsm57.jpg",
+                    "https://1721181113.rsc.cdn77.org/data/images/full/37848/new-horizons-nears-july-14-flyby-of-pluto.jpg",
+                    "https://starchild.gsfc.nasa.gov/Images/StarChild/solar_system_level2/eris_and_dysnomia_485.jpg"
+                }
+            },
         };
 
 

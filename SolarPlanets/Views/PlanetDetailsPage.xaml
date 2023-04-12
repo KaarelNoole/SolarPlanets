@@ -89,7 +89,8 @@
                 
                 <CollectionView
                     Margin="0,-6,0,0"
-                    HeightRequest="160"
+                    HeightRequest="300"
+                    WidthRequest="300"
                     ItemsSource="{Binding Images}">
 
                     <CollectionView.ItemsLayout>
@@ -106,10 +107,11 @@
                                 Aspect="AspectFill"
                                 HorizontalOptions="Fill"
                                 VerticalOptions="Fill"
-                                WidthRequest="160">
+                                WidthRequest="300"
+                                HeightRequest="300">
                                 <Image.Clip>
                                     <RoundRectangleGeometry
-                                        Rect="0,0,160,160"
+                                        Rect="0,0,300,300"
                                         CornerRadius="16" />
                                 </Image.Clip>
                             </Image>
