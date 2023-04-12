@@ -149,7 +149,7 @@
         <Setter Property="TextColor" Value="#CCCCCC" />
     </Style>
 
-    <Style TargetType="Label" x:Key="PlanetHeaderStyle" BasedOn="{StaticResource BaseBoldLabeltyle}">
+    <Style TargetType="Label" x:Key="AllPlanetHeaderStyle" BasedOn="{StaticResource BaseBoldLabeltyle}">
         <Setter Property="FontSize" Value="48" />
         <Setter Property="TextColor" Value="{StaticResource LightTextColor}" />
     </Style>
